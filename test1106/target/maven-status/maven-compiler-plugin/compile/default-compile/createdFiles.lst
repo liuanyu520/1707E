@@ -1,0 +1,5 @@
+com\lay\bean\User.class
+com\lay\service\UserService.class
+com\lay\service\UserServiceimpi.class
+com\lay\mapper\UserMapper.class
+com\lay\controller\UserController.class
